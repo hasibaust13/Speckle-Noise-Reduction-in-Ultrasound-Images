@@ -1,0 +1,1 @@
+This project introduces a relatively simple contex-based model for adaptive threshold selection witihin a wavelet thresholding framewrok. The project is implemented by Matlab.
